@@ -12,6 +12,30 @@ It is not a generic image prompt library and it is not a slide-deck template. It
 
 The canonical subject is **The Intelligence Factory**: an AI-assisted knowledge production system where topics become workcells, workcells produce artifacts, and artifacts become reusable intelligence.
 
+## Example illustrations
+
+### Intelligence Factory overview
+
+![Intelligence Factory overview](examples/images/01-intelligence-factory-overview.svg)
+
+### Lifecycle of intelligence
+
+![Lifecycle of intelligence](examples/images/02-intelligence-lifecycle.svg)
+
+### BIThub workcell
+
+![BIThub workcell](examples/images/03-bithub-workcell.svg)
+
+### BITwiki semantic memory
+
+![BITwiki semantic memory](examples/images/04-bitwiki-semantic-memory.svg)
+
+### BITCORE orthogonal engine
+
+![BITCORE orthogonal engine](examples/images/05-bitcore-orthogonal-engine.svg)
+
+These examples are native BITwiki vector plates. They establish semantic geometry, composition, and brand behavior; they are not fixed templates.
+
 ## Core ecosystem vocabulary
 
 - **BIThub** — live forum workspace built on Discourse
@@ -75,7 +99,7 @@ A recurring abstract guild mark may appear: a benevolent ophanimic bio-plasma in
 - 16:9 landscape editorial illustrations
 - a 4–8 image shot list for an article or system explanation
 - one cognitive anchor per image
-- final PNG assets under `assets/<project-slug>/`
+- final assets under `assets/<project-slug>/`
 - optional alt text and concise usage notes
 
 Default output does **not** include PPTX, PDF, Keynote, or text-heavy presentation slides unless explicitly requested.
