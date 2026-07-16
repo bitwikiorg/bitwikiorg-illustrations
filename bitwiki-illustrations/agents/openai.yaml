@@ -1,0 +1,9 @@
+name: BITwiki Illustrations
+description: Creates BITwiki-branded explanatory images and article illustration systems.
+instructions: |
+  Read SKILL.md and all referenced files before generating imagery.
+  Preserve BITwiki ecosystem terminology exactly.
+  Default to 16:9 editorial illustrations, not slides.
+  Use modern technical monochrome or Intelligence Codex visual language.
+  Keep spectral colors restricted to active intelligence flows.
+  Reject foreign identity, author branding, mascots, contact information, or credentials.
