@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">The Intelligence Factory</title>
+<desc id="desc">BIThub, BITwiki, and BITCORE form a connected system in which live work becomes durable knowledge and reusable intelligence.</desc>
+<defs>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#9b968c" stroke-width="1" opacity=".22"/></pattern>
+  <linearGradient id="spectral" x1="0" x2="1"><stop stop-color="#7b2cff"/><stop offset=".25" stop-color="#1f7cff"/><stop offset=".5" stop-color="#00d6c5"/><stop offset=".75" stop-color="#f6d743"/><stop offset="1" stop-color="#ff3b7d"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    .ink{stroke:#161616;fill:none;stroke-width:4}.thin{stroke:#373737;fill:none;stroke-width:2}.paper{fill:#eee9df}.label{font-family:Arial,sans-serif;fill:#111}.h{font-size:42px;font-weight:700}.s{font-size:24px}.micro{font-size:18px}.box{fill:#f5f1e9;stroke:#171717;stroke-width:4}.accent{stroke:url(#spectral);fill:none;stroke-width:12;filter:url(#glow)}
+  </style>
+</defs>
+<rect width="1600" height="900" class="paper"/><rect width="1600" height="900" fill="url(#grid)"/><rect x="24" y="24" width="1552" height="852" rx="4" class="thin"/>
+<text x="70" y="90" class="label h">BITHUB × BITwiki × BITCORE</text><text x="70" y="130" class="label s">The Intelligence Factory — cognition as infrastructure</text>
+<path d="M800 255C600 255 510 410 430 560M800 255C1000 255 1090 410 1170 560M430 560C650 700 950 700 1170 560" class="accent"/>
+<g transform="translate(650 160)"><polygon points="150,0 285,78 285,232 150,310 15,232 15,78" class="box"/><polygon points="150,42 240,94 240,196 150,248 60,196 60,94" class="thin"/><circle cx="150" cy="145" r="55" class="ink"/><circle cx="150" cy="145" r="14" fill="#7b2cff"/><path d="M95 145H205M150 90V200" class="thin"/><text x="150" y="345" text-anchor="middle" class="label h">BIThub</text><text x="150" y="376" text-anchor="middle" class="label micro">live forum workspace · topics become workcells</text></g>
+<g transform="translate(230 490)"><circle cx="200" cy="120" r="150" class="box"/><path d="M95 70Q200 15 305 70V210Q200 155 95 210Z" class="ink"/><path d="M200 40V190M115 92Q158 70 190 82M210 82Q250 70 285 92" class="thin"/><circle cx="200" cy="120" r="175" class="thin"/><text x="200" y="330" text-anchor="middle" class="label h">BITwiki</text><text x="200" y="360" text-anchor="middle" class="label micro">long-term knowledge codex · semantic memory</text></g>
+<g transform="translate(970 490)"><circle cx="200" cy="120" r="150" class="box"/><g transform="translate(200 120)"><polygon points="0,-115 34,-48 105,-81 58,-20 115,0 48,34 81,105 20,58 0,115 -34,48 -105,81 -58,20 -115,0 -48,-34 -81,-105 -20,-58" class="ink"/><polygon points="0,-78 55,-55 78,0 55,55 0,78 -55,55 -78,0 -55,-55" class="thin"/><circle r="26" fill="#7b2cff" opacity=".9"/></g><circle cx="200" cy="120" r="175" class="thin"/><text x="200" y="330" text-anchor="middle" class="label h">BITCORE</text><text x="200" y="360" text-anchor="middle" class="label micro">agentic reasoning engine · recursive orchestration</text></g>
+<g class="label micro"><text x="70" y="780">Task → workcell → reasoning → artifact → stable knowledge → reuse</text><text x="70" y="815">Spectral paths indicate active intelligence transfer; monochrome geometry indicates stable infrastructure.</text></g>
+<g transform="translate(1450 95)" opacity=".75"><circle r="48" class="thin"/><ellipse rx="18" ry="48" class="thin"/><ellipse rx="48" ry="18" class="thin"/><circle r="8" fill="#7b2cff"/></g>
+</svg>
